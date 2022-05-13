@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Пример простой HTML страницы</title>
+</head>
+<body>
+    <h1>Заголовок</h1>
+    <p>
+        Тут у нас просто <small>какой-то</small> текст. Часть его написана <strong>жирным шрифтом</strong>, а часть <i>курсивом</i>
+    </p>
+    <p>
+        Случайное число: <strong>56645</strong>
+    </p>
+</body>
+</html>
