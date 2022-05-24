@@ -1,7 +1,5 @@
 # LP_Telegram_Echo_bot
 
-# Имя бота: LP_Echo_bot
-# Никнейм бота: @LetPy1Bot
 import requests
 
 from config import TOKEN

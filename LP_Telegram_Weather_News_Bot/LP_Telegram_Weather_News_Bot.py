@@ -1,7 +1,5 @@
 # LP_Telegram_Weather_News_Bot
 
-# Имя бота: Weather_news_1bot
-# Никнейм бота: @Weather_news_1bot
 import requests
 import json
 
